@@ -16,4 +16,5 @@ I am a funded PhD candidate studying ludonarrative design with a focus on proced
   * Brogue (traditional roguelike)
   * Princessrl (7DRL roguelike)
 
-
+#### Dev Blog
+- 📝 I am working on a development blog of academic adventures in proc-gen and game design topics, ready at the end of of jan 2026.
