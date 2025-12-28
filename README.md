@@ -1,6 +1,6 @@
-## Hello & Salutations ##### 😊
+## Hello & Salutations
 
-I am a funded PhD candidate studying ludonarrative design with a focus on procedural generation of queer stories and the semiotics of 1-bit glyphs. I am a quirky creative, and dabble with making games in Godot and inform 7, as well as write the occasional wonky tune. Also, I adjunct sound and game design courses from semester to semester 👩‍🏫
+I am a funded PhD candidate studying ludonarrative design with a focus on procedural generation of queer stories and the semiotics of 1-bit glyphs. 😊 I am a quirky creative, and dabble with making games in Godot and Inform 7, as well as write the occasional wonky tune. Also, I adjunct sound and game design courses from semester to semester 👩‍🏫
   
 - 🌱 I’m currently learning Rust to make traditional roguelikes (@~@-)
 - - 📚 I’m currently working on reading:
