@@ -9,7 +9,7 @@ I am a funded PhD candidate studying ludonarrative design with a focus on proced
   - Hands-on Rust by Herbert Wolverson.
 - 💬 Ask me about nerdy game studies things ¯\_(ツ)_/¯
 - @ Fun fact: vegetarian, bard (mix between college of lore & creation 🤔), can juggle devil sticks.
-- Favorite Games 🕹️
+- 🕹️ Favorite Games
   * Life is Strange (episodic adventure game)
   * Embric of Wulfhammers Castle (combatless RPG)
   * Fallout 2 (open-world CRPG)
